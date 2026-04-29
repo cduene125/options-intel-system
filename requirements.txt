@@ -1,0 +1,9 @@
+alpaca-py
+pandas
+numpy
+python-dotenv
+streamlit
+plotly
+pytz
+requests
+streamlit-autorefresh
